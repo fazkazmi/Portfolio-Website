@@ -1,4 +1,5 @@
 # Portfolio-Website
-As-salamu alaykum, Hello, and 
+As-salamu alaykum and Hello,
+Welcome to my GitHub profile! 
 
-Welcome to my GitHub profile, learn more about me here: www.fazkazmi.com
+Learn more about me here: www.fazkazmi.com
