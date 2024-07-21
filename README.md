@@ -1,6 +1,4 @@
 # Portfolio-Website
-Personal portfolio website | Public viewing to demonstrate proven front-end skills.
+As-salamu alaykum, Hello, and 
 
-https://fazkazmi.com
-
-https://linkt.ree/fazkazmi
+Welcome to my GitHub profile, learn more about me here: www.fazkazmi.com
