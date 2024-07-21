@@ -29,6 +29,19 @@ html, body {
     height: auto;
 }
 
+/* Thumbnail container styles */
+.thumbnail-container {
+    text-align: center;
+    margin-bottom: 20px; /* Space between thumbnail and social links */
+}
+
+.thumbnail {
+    width: 150px; /* Set the desired width of the thumbnail */
+    height: auto; /* Maintain aspect ratio */
+    border: 1px solid #ccc; /* Optional: Add a border */
+    padding: 5px; /* Optional: Add padding */
+}
+
 /* Social links styles */
 .social-links {
     display: flex;
